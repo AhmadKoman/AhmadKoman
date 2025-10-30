@@ -22,7 +22,7 @@ I'm a Master’s student in Engineering Mathematics with a focus on Applied math
   Built a machine learning model (XGBoost) to predict pulp brightness, optimizing chemical usage with real industrial data (R² = 0.584).  
 
 - **Market Volatility Prediction**  
-  Applied Singular Value Decomposition (SVD) for financial risk management, achieving an R² of 0.78, outperforming GARCH benchmarks.  
+  Applied Singular Value Decomposition (SVD) for financial risk management, achieving an R² of 0.945, outperforming GARCH benchmarks.  
 
 ## Publication
 
