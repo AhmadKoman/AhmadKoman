@@ -4,8 +4,8 @@ I'm a Master’s student in Engineering Mathematics with a focus on Applied math
 
 ## What I Do
 
-- **Technical Skills**: Python, MATLAB, SQL, HTML, CSS  
-- **Frameworks & Tools**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-Learn, Matplotlib  
+- **Technical Skills**: Python, MATLAB, SQL, R, Stochastic Modeling
+- **Frameworks & Tools**: PyTorch, TensorFlow, Pandas, NumPy, Scikit-Learn, Matplotlib, Scipy  
 - **Areas of Interest**: Machine Learning, Deep Learning, Statistical Modeling, Optimization, Financial Risk Management, Quantitative analys  
 
 ## Experience
@@ -26,5 +26,5 @@ I'm a Master’s student in Engineering Mathematics with a focus on Applied math
 
 ## Publication
 
-- *Applying Singular Value Decomposition to Market Volatility* (May 2025)  
-  Available soon [Google Scholar](https://scholar.google.com) and [ResearchGate](https://www.researchgate.net).  
+- *Volatility Forecasting with SVD Derived Covariance Features: A Deep Learning Approach* (Oct 2025)  
+  https://doi.org/10.21203/rs.3.rs-7942322/v1
